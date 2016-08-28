@@ -1,5 +1,5 @@
 # OblivP2P: An Oblivious Peer-to-Peer Content Sharing System
-## Implementation for OblivP2P (construction-0 and construction-1(unoptimized))
+### Implementation for OblivP2P (construction-0 and construction-1(unoptimized))
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -23,6 +23,7 @@ References
 \[jiaoblivp2p] [
   _OBLIVP2P: An Oblivious Peer-to-Peer Content Sharing System_
 ] (http://www.comp.nus.edu.sg/~jiayaoqi/publications/oblivp2p_usenix.pdf)
+
   Yaoqi Jia, Tarik Moataz, Shruti Tople and Prateek Saxena. 
   In the 25th USENIX Security Symposium (Usenix Security 2016) 
 
