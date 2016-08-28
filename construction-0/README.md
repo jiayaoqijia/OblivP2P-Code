@@ -8,7 +8,7 @@
     $ python shell.py N
 
 ### Client requests to upload/fetch blocks:
-#### python btclient1.py -c 1 peer-host peer-port max-peers tracker-ip:port"
+#### python btclient1.py -c 1 peer-host peer-port max-peers tracker-ip:port
     $ python btclient1.py -c 1 127.0.0.1 20000 0 127.0.0.1:7090
 
 ### Stop running nodes (kill all running python processes):
