@@ -25,6 +25,7 @@ References
 ] (http://www.comp.nus.edu.sg/~jiayaoqi/publications/oblivp2p_usenix.pdf)
 
   Yaoqi Jia, Tarik Moataz, Shruti Tople and Prateek Saxena. 
+  
   In the 25th USENIX Security Symposium (Usenix Security 2016) 
 
 [Yaoqi Jia]: http://www.comp.nus.edu.sg/~jiayaoqi/
